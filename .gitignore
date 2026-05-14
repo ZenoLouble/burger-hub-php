@@ -37,3 +37,7 @@ __screenshots__/
 
 # Vite
 *.timestamp-*-*.mjs
+
+# PHP/Composer
+/vendor/
+.env

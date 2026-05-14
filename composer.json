@@ -1,0 +1,9 @@
+{
+    "name": "zeno/burger-hub",
+    "description": "Burger Hub PHP backend with OOP",
+    "autoload": {
+        "psr-4": {
+            "App\\": "php_src/"
+        }
+    }
+}
